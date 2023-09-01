@@ -1,4 +1,4 @@
-package org.example.A1_01_Example;
+package org.example.A1_01_Example_BeanAnnotation;
 
 import org.example.A1_00_Example.Parrot;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
